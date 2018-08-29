@@ -1,5 +1,7 @@
 <?php
 
+ini_set('memory_limit', '-1');
+
 /**
  * @return the value at $index in $array or $default if $index is not set.
  */
