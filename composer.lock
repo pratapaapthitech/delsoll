@@ -4079,7 +4079,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "=7.0.31"
+        "php": "~7.0.31"
     },
     "platform-dev": []
 }
