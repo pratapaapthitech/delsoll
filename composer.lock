@@ -598,7 +598,7 @@
                 "mtdowling/cron-expression": "~1.0",
                 "nesbot/carbon": "~1.20",
                 "paragonie/random_compat": "~1.4|~2.0",
-                "php": "=7.0.13",
+                "php": "=7.0.31",
                 "ramsey/uuid": "~3.0",
                 "swiftmailer/swiftmailer": "~5.4",
                 "symfony/console": "~3.2",
@@ -835,7 +835,7 @@
                 "illuminate/session": "5.4.*",
                 "illuminate/support": "5.4.*",
                 "illuminate/view": "5.4.*",
-                "php": "=7.0.13"
+                "php": "=7.0.31"
             },
             "require-dev": {
                 "illuminate/database": "5.4.*",
@@ -2558,7 +2558,7 @@
                 "illuminate/http": "5.4.*",
                 "illuminate/support": "5.4.*",
                 "illuminate/view": "5.4.*",
-                "php": "=7.0.13"
+                "php": "=7.0.31"
             },
             "require-dev": {
                 "mockery/mockery": "0.9.*",
@@ -4079,7 +4079,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "=7.0.13"
+        "php": "=7.0.31"
     },
     "platform-dev": []
 }
